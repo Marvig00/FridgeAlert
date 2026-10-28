@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34091201/README.md)
 # FridgeAlert 🥬
 
 **Live demo:** https://marvig00.github.io/FridgeAlert/
